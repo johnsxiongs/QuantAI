@@ -10,4 +10,6 @@ plugins:
 include:
   - llms.txt
   - robots.txt
+  - humans.txt
+  - .well-known
   - reference

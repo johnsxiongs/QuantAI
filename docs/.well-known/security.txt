@@ -1,0 +1,4 @@
+Contact: mailto:support@aiquant.io
+Canonical: https://johnsxiongs.github.io/QuantAI/.well-known/security.txt
+Preferred-Languages: en, zh
+Expires: 2027-06-30T23:59:59Z

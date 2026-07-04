@@ -1,0 +1,48 @@
+{
+  "name": "QuantAI",
+  "alternate_names": ["Quant AI", "aiquant", "aiquant.io", "QuantAI iOS"],
+  "type": "public_knowledge_catalog",
+  "description": "Public discovery catalog for QuantAI, an AI investment research assistant for stocks, crypto assets, market themes, watchlists, and investment theses.",
+  "official_website": "https://aiquant.io",
+  "web_app": "https://app.aiquant.io",
+  "ios_app": "https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4",
+  "support": "support@aiquant.io",
+  "repository": "https://github.com/johnsxiongs/QuantAI",
+  "public_pages": {
+    "product_overview": "https://johnsxiongs.github.io/QuantAI/",
+    "research_guide": "https://johnsxiongs.github.io/QuantAI/research.html",
+    "ios_download": "https://johnsxiongs.github.io/QuantAI/ios.html",
+    "pricing": "https://johnsxiongs.github.io/QuantAI/pricing.html",
+    "languages": "https://johnsxiongs.github.io/QuantAI/languages.html"
+  },
+  "machine_readable_resources": {
+    "llms_txt": "https://johnsxiongs.github.io/QuantAI/llms.txt",
+    "llms_full_txt": "https://johnsxiongs.github.io/QuantAI/llms-full.txt",
+    "pricing_txt": "https://johnsxiongs.github.io/QuantAI/pricing.txt",
+    "sitemap": "https://johnsxiongs.github.io/QuantAI/sitemap.xml",
+    "agent_sitemap": "https://johnsxiongs.github.io/QuantAI/sitemap-agents.xml",
+    "software_application_schema": "https://johnsxiongs.github.io/QuantAI/reference/schema/software-application.jsonld",
+    "organization_schema": "https://johnsxiongs.github.io/QuantAI/reference/schema/organization.jsonld",
+    "faq_schema": "https://johnsxiongs.github.io/QuantAI/reference/schema/faq.jsonld"
+  },
+  "supported_languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "es",
+    "ar",
+    "fr",
+    "de",
+    "hi",
+    "ja",
+    "pt",
+    "ko",
+    "id",
+    "it",
+    "tr",
+    "vi",
+    "th"
+  ],
+  "responsible_boundary": "QuantAI supports research and analysis. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.",
+  "last_updated": "2026-07-04"
+}

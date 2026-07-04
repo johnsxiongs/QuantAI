@@ -13,6 +13,8 @@
 - iOS QR SVG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.svg
 - iOS QR PNG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.png
 - Open Graph image: https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png
+- Humans: https://johnsxiongs.github.io/QuantAI/humans.txt
+- AI catalog: https://johnsxiongs.github.io/QuantAI/.well-known/ai-catalog.json
 - Support: support@aiquant.io
 - Boundary: research and analysis, not brokerage, automated trading, order routing, guaranteed signals, portfolio management, or personalized financial advice
 

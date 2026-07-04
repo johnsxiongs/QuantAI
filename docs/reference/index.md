@@ -18,6 +18,8 @@ Users should start with the [product overview](../), [research guide](../researc
 - [GitHub SEO and GEO pattern notes](github-seo-geo-patterns.html)
 - [Full LLM context](../llms-full.txt)
 - [Agent-readable pricing](../pricing.txt)
+- [Humans file](../humans.txt)
+- [AI catalog](../.well-known/ai-catalog.json)
 - [SoftwareApplication JSON-LD](schema/software-application.jsonld)
 - [Organization JSON-LD](schema/organization.jsonld)
 - [FAQ JSON-LD](schema/faq.jsonld)

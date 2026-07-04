@@ -27,7 +27,7 @@ These notes sit in the reference layer so the public entry pages can stay focuse
 
 1. User-facing pages first: README, homepage, research, iOS, pricing, and language pages should explain QuantAI plainly.
 2. Reference layer second: keyword maps, schema JSON-LD, search submission notes, AI visibility notes, and this pattern file live under `docs/reference/`.
-3. Machine-readable access: keep `llms.txt`, `llms-full.txt`, `pricing.txt`, `robots.txt`, sitemap output, canonical URLs, JSON-LD, alternate language links, and App Store QR assets crawlable.
+3. Machine-readable access: keep `llms.txt`, `llms-full.txt`, `pricing.txt`, `humans.txt`, `.well-known/security.txt`, `.well-known/ai-catalog.json`, `robots.txt`, sitemap output, canonical URLs, JSON-LD, alternate language links, and App Store QR assets crawlable.
 4. No ranking promises: GitHub Pages, llms.txt, schema, and multilingual pages improve discoverability and extractability, but Google indexing and ranking are never guaranteed.
 5. No keyword stuffing: use natural product language at the top level; keep long keyword matrices in the reference layer.
 

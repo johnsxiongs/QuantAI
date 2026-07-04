@@ -12,6 +12,8 @@
 - Open Graph image: https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png
 - Pricing: https://aiquant.io/pricing
 - GitHub repository: https://github.com/johnsxiongs/QuantAI
+- Humans: https://johnsxiongs.github.io/QuantAI/humans.txt
+- AI catalog: https://johnsxiongs.github.io/QuantAI/.well-known/ai-catalog.json
 - Support: support@aiquant.io
 
 ## User-Facing Pages

@@ -19,6 +19,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://johnsxiongs.github.io/QuantAI/humans.txt</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://johnsxiongs.github.io/QuantAI/.well-known/security.txt</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://johnsxiongs.github.io/QuantAI/.well-known/ai-catalog.json</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://johnsxiongs.github.io/QuantAI/reference/schema/software-application.jsonld</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>

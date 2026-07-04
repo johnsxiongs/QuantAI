@@ -17,6 +17,9 @@ This is an inner operational checklist. It is not intended to be the main user-f
 - llms.txt: https://johnsxiongs.github.io/QuantAI/llms.txt
 - llms-full.txt: https://johnsxiongs.github.io/QuantAI/llms-full.txt
 - Agent-readable pricing: https://johnsxiongs.github.io/QuantAI/pricing.txt
+- Humans: https://johnsxiongs.github.io/QuantAI/humans.txt
+- Security: https://johnsxiongs.github.io/QuantAI/.well-known/security.txt
+- AI catalog: https://johnsxiongs.github.io/QuantAI/.well-known/ai-catalog.json
 
 ## Submit or Inspect
 

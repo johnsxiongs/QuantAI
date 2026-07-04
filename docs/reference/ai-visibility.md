@@ -45,6 +45,9 @@ Reference and machine-readable pages:
 - `/llms.txt`
 - `/llms-full.txt`
 - `/pricing.txt`
+- `/humans.txt`
+- `/.well-known/security.txt`
+- `/.well-known/ai-catalog.json`
 - `/reference/agent-summary.html`
 - `/reference/keyword-map.html`
 - `/reference/ai-visibility.html`

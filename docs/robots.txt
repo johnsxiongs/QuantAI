@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://johnsxiongs.github.io/QuantAI/sitemap.xml
 Sitemap: https://johnsxiongs.github.io/QuantAI/sitemap-agents.xml
+
+Humans: https://johnsxiongs.github.io/QuantAI/humans.txt
