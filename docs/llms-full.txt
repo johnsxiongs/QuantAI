@@ -9,6 +9,7 @@ Web app: https://app.aiquant.io
 iOS app: https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4
 Public GitHub repository: https://github.com/johnsxiongs/QuantAI
 Public product page: https://johnsxiongs.github.io/QuantAI/
+Open Graph image: https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png
 Support: support@aiquant.io
 
 ## What QuantAI Helps With

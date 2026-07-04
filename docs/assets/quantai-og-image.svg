@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">QuantAI - AI Investment Research Assistant</title>
+  <desc id="desc">Open Graph preview image for QuantAI, an AI investment research assistant for stocks, crypto assets, market themes, and investment theses.</desc>
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <rect x="64" y="64" width="1072" height="502" rx="24" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+  <rect x="92" y="92" width="168" height="42" rx="21" fill="#ccfbf1"/>
+  <text x="120" y="120" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f766e">QuantAI</text>
+  <text x="92" y="226" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="800" fill="#111827">AI investment</text>
+  <text x="92" y="308" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="800" fill="#111827">research assistant</text>
+  <text x="94" y="374" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500" fill="#4b5563">Research stocks, crypto assets, market themes,</text>
+  <text x="94" y="416" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500" fill="#4b5563">watchlists, signals, and investment theses with AI.</text>
+  <rect x="94" y="474" width="218" height="52" rx="12" fill="#0f766e"/>
+  <text x="124" y="508" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">aiquant.io</text>
+  <rect x="760" y="130" width="292" height="292" rx="22" fill="#111827"/>
+  <path d="M820 324 L882 210 L945 324 Z" fill="#5eead4"/>
+  <path d="M858 342 L919 238 L982 342 Z" fill="#ccfbf1" opacity="0.9"/>
+  <circle cx="906" cy="356" r="24" fill="#0f766e"/>
+  <text x="760" y="486" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#111827">Web and iOS</text>
+  <text x="760" y="526" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500" fill="#4b5563">Research software, not a broker.</text>
+</svg>
