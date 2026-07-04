@@ -1,7 +1,7 @@
 ---
 title: QuantAI em Português
 description: QuantAI é um assistente de pesquisa de investimento com IA para ações, criptoativos, temas de mercado e teses de investimento.
-lang: pt-PT
+lang: pt
 ---
 
 # QuantAI em Português
