@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Quant AI",
+  "alternateName": [
+    "QuantAI",
+    "aiquant",
+    "aiquant.io",
+    "Quant AI app",
+    "Quant AI iOS"
+  ],
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Web, iOS",
+  "url": "https://aiquant.io",
+  "downloadUrl": "https://apps.apple.com/us/app/quantai/id6754956523",
+  "image": "https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.png",
+  "description": "Quant AI is an AI investment research assistant for stock research, crypto analysis, market analysis, technical analysis, fundamental analysis, quantitative signals, and AI quant trading research.",
+  "keywords": [
+    "AI investment research assistant",
+    "AI quant trading research",
+    "AI stock research assistant",
+    "AI crypto analysis tool",
+    "AI market research assistant",
+    "AI technical analysis tool",
+    "AI fundamental analysis tool"
+  ],
+  "sameAs": [
+    "https://aiquant.io",
+    "https://app.aiquant.io",
+    "https://github.com/johnsxiongs/QuantAI",
+    "https://johnsxiongs.github.io/QuantAI/",
+    "https://apps.apple.com/us/app/quantai/id6754956523",
+    "https://x.com/aiquantio",
+    "https://t.me/aiquant_io"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://aiquant.io/pricing",
+    "availability": "https://schema.org/InStock"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Quant AI",
+    "url": "https://aiquant.io",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "support@aiquant.io",
+      "contactType": "customer support"
+    }
+  }
+}

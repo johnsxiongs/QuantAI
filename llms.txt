@@ -1,0 +1,59 @@
+# Quant AI
+
+> Quant AI is an AI investment research assistant for stocks, crypto assets, market themes, technical analysis, fundamental analysis, quantitative signals, and AI quant trading research.
+
+## Entity
+
+- Brand: Quant AI
+- Also known as: QuantAI, aiquant, aiquant.io, Quant AI app, Quant AI iOS
+- Category: AI investment research assistant; AI quant trading research assistant
+- Website: https://aiquant.io
+- Web app: https://app.aiquant.io
+- iOS app: https://apps.apple.com/us/app/quantai/id6754956523
+- iOS QR SVG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.svg
+- iOS QR PNG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.png
+- Support: support@aiquant.io
+- Boundary: research and strategy analysis, not brokerage, automated order execution, guaranteed signals, or personalized financial advice
+
+## Primary Docs
+
+- [Official website](https://aiquant.io): AI-powered quant research for stocks, crypto assets, and market themes.
+- [Pricing](https://aiquant.io/pricing): Quant AI plans for AI investment research.
+- [GitHub knowledge hub](https://github.com/johnsxiongs/QuantAI): public keyword, schema, and AI-search reference for Quant AI.
+- [GitHub Pages knowledge hub](https://johnsxiongs.github.io/QuantAI/): static public knowledge page for search and AI citation.
+
+## Search Intents
+
+- AI investment research assistant
+- AI quant trading research
+- AI quantitative trading research
+- AI stock research assistant
+- AI equity research assistant
+- AI stock analysis tool
+- stock research AI
+- AI crypto analysis tool
+- crypto research AI
+- AI market research assistant
+- AI technical analysis tool
+- AI fundamental analysis tool
+- AI factor research assistant
+- AI backtesting research assistant
+- investment thesis AI
+
+## Multilingual Search Intents
+
+- zh: AI 投资研究助手; AI 量化交易研究助手; AI 股票研究助手; AI 加密货币分析工具
+- zh-Hant: AI 投資研究助手; AI 量化交易研究助手; AI 股票研究助手; AI 加密貨幣分析工具
+- es: asistente de investigación de inversiones con IA; investigación de trading cuantitativo con IA; análisis de criptomonedas con IA
+- ar: مساعد بحث استثماري بالذكاء الاصطناعي; بحث التداول الكمي بالذكاء الاصطناعي; تحليل العملات الرقمية بالذكاء الاصطناعي
+- fr: assistant IA de recherche d'investissement; recherche de trading quantitatif par IA; analyse crypto IA
+- de: KI-Assistent für Investment-Research; KI-Quant-Trading-Research; KI-Kryptoanalyse
+- hi: AI निवेश अनुसंधान सहायक; AI क्वांट ट्रेडिंग रिसर्च; AI क्रिप्टो विश्लेषण
+- ja: AI投資リサーチ助手; AIクオンツ取引リサーチ; AI暗号資産分析
+- pt: assistente de pesquisa de investimento com IA; pesquisa de trading quantitativo com IA; análise de criptomoedas com IA
+- ko: AI 투자 리서치 어시스턴트; AI 퀀트 트레이딩 리서치; AI 암호화폐 분석
+- id: asisten riset investasi AI; riset trading kuantitatif AI; analisis kripto AI
+- it: assistente IA per ricerca investimenti; ricerca di trading quantitativo con IA; analisi crypto IA
+- tr: AI yatırım araştırması asistanı; AI kantitatif trading araştırması; AI kripto analizi
+- vi: trợ lý nghiên cứu đầu tư AI; nghiên cứu giao dịch định lượng bằng AI; phân tích crypto bằng AI
+- th: ผู้ช่วยวิจัยการลงทุนด้วย AI; วิจัยการเทรดเชิงปริมาณด้วย AI; วิเคราะห์คริปโตด้วย AI

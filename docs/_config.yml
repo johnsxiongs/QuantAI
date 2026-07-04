@@ -1,0 +1,13 @@
+title: QuantAI
+description: Public knowledge hub for Quant AI, an AI investment research assistant and AI quant trading research assistant.
+url: https://johnsxiongs.github.io
+baseurl: /QuantAI
+lang: en
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+include:
+  - llms.txt
+  - robots.txt
+  - schema
+

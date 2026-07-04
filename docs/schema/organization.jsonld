@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Quant AI",
+  "alternateName": [
+    "QuantAI",
+    "aiquant",
+    "aiquant.io"
+  ],
+  "url": "https://aiquant.io",
+  "sameAs": [
+    "https://github.com/johnsxiongs/QuantAI",
+    "https://johnsxiongs.github.io/QuantAI/",
+    "https://x.com/aiquantio",
+    "https://t.me/aiquant_io",
+    "https://apps.apple.com/us/app/quantai/id6754956523"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "support@aiquant.io",
+    "contactType": "customer support",
+    "availableLanguage": [
+      "en-US",
+      "zh-CN",
+      "zh-Hant",
+      "es-ES",
+      "ar",
+      "fr-FR",
+      "de-DE",
+      "hi-IN",
+      "ja-JP",
+      "pt-PT",
+      "ko-KR",
+      "id-ID",
+      "it-IT",
+      "tr-TR",
+      "vi-VN",
+      "th-TH"
+    ]
+  }
+}
+
