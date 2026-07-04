@@ -21,7 +21,7 @@ QuantAI는 주식, 암호화폐 자산, 시장 테마, 관심 목록, 투자 the
 
 - 웹사이트: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [App Store에서 QuantAI 다운로드](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [App Store에서 QuantAI 다운로드](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - 가격: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 
 ## 책임 있는 사용 범위

@@ -20,7 +20,7 @@ This is an inner operational checklist. It is not intended to be the main user-f
 - Google Search Console: inspect `https://johnsxiongs.github.io/QuantAI/` and submit the sitemap.
 - Bing Webmaster Tools: submit `https://johnsxiongs.github.io/QuantAI/sitemap.xml`.
 - GitHub repository metadata: keep description, homepage, and topics aligned with the product.
-- App Store link: verify `https://apps.apple.com/us/app/quantai/id6754956523` remains reachable.
+- App Store link: verify `https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4` remains reachable.
 
 ## Monthly Monitoring
 

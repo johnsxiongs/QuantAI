@@ -21,7 +21,7 @@ Gunakan QuantAI saat pertanyaan pasar membutuhkan konteks: apa yang berubah, sin
 
 - Website: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [Unduh QuantAI di App Store](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [Unduh QuantAI di App Store](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - Harga: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 
 ## Batasan Tanggung Jawab

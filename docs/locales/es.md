@@ -21,7 +21,7 @@ QuantAI es un asistente de investigación de inversiones con IA para personas qu
 
 - Sitio web: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [Descargar QuantAI en App Store](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [Descargar QuantAI en App Store](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - Precios: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 
 ## Límite Responsable

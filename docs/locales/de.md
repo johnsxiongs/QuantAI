@@ -21,7 +21,7 @@ Nutzen Sie QuantAI, wenn eine Marktfrage Kontext braucht: was sich geändert hat
 
 - Website: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [QuantAI im App Store laden](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [QuantAI im App Store laden](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - Preise: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 
 ## Verantwortung

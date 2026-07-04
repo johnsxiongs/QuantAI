@@ -21,7 +21,7 @@ Bir piyasa sorusu bağlam gerektirdiğinde QuantAI kullanın: ne değişti, hang
 
 - Web sitesi: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [QuantAI'yi App Store'dan indir](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [QuantAI'yi App Store'dan indir](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - Fiyatlandırma: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 
 ## Sorumlu Kullanım Sınırı

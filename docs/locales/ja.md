@@ -21,7 +21,7 @@ QuantAI は、株式、暗号資産、市場テーマ、ウォッチリスト、
 
 - 公式サイト: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [App Store で QuantAI をダウンロード](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [App Store で QuantAI をダウンロード](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - 料金: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 
 ## 責任ある利用範囲

@@ -67,7 +67,7 @@ Last updated: 2026-07-04
 - Official website: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
 - Pricing: [https://aiquant.io/pricing](https://aiquant.io/pricing)
-- iOS app: [https://apps.apple.com/us/app/quantai/id6754956523](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - GitHub repository: [https://github.com/johnsxiongs/QuantAI](https://github.com/johnsxiongs/QuantAI)
 - GitHub Pages product page: [https://johnsxiongs.github.io/QuantAI/](https://johnsxiongs.github.io/QuantAI/)
 

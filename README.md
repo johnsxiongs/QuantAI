@@ -10,17 +10,17 @@ Last updated: 2026-07-04
 
 - Website: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [Download QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [Download QuantAI on the App Store](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - Pricing: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 - Support: [support@aiquant.io](mailto:support@aiquant.io)
 - Public product page: [https://johnsxiongs.github.io/QuantAI/](https://johnsxiongs.github.io/QuantAI/)
 
 ## Download QuantAI for iOS
 
-Open the [QuantAI App Store page](https://apps.apple.com/us/app/quantai/id6754956523) or scan the QR code below with an iPhone camera.
+Open the [QuantAI App Store page](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4) or scan the QR code below with an iPhone camera.
 
 <p>
-  <a href="https://apps.apple.com/us/app/quantai/id6754956523">
+  <a href="https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4">
     <img src="docs/assets/quantai-ios-download-qr.svg" alt="QR code for downloading the QuantAI iOS app from the App Store" width="180">
   </a>
 </p>

@@ -43,5 +43,5 @@ QuantAI pricing is for access to research software. QuantAI does not sell broker
 
 - Pricing page: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [Download QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [Download QuantAI on the App Store](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - Support: [support@aiquant.io](mailto:support@aiquant.io)

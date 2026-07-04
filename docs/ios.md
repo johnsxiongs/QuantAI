@@ -9,13 +9,13 @@ Bring your market research with you. QuantAI on iPhone helps you continue a stoc
 
 ## Get the App
 
-- [Download QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
+- [Download QuantAI on the App Store](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 
 ## Scan the QR Code
 
 Open your iPhone camera and point it at the QR code below.
 
-[![QR code for downloading the QuantAI iOS app from the App Store](assets/quantai-ios-download-qr.svg)](https://apps.apple.com/us/app/quantai/id6754956523)
+[![QR code for downloading the QuantAI iOS app from the App Store](assets/quantai-ios-download-qr.svg)](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 
 PNG version: [assets/quantai-ios-download-qr.png](assets/quantai-ios-download-qr.png)
 

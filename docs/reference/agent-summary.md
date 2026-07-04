@@ -13,7 +13,7 @@ description: Concise product summary for AI agents and search systems.
 - Also known as: Quant AI, aiquant, aiquant.io, Quant AI app, QuantAI iOS
 - Website: https://aiquant.io
 - Web app: https://app.aiquant.io
-- iOS app: https://apps.apple.com/us/app/quantai/id6754956523
+- iOS app: https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4
 - Public repository: https://github.com/johnsxiongs/QuantAI
 - Support: support@aiquant.io
 

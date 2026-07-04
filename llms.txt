@@ -9,7 +9,7 @@
 - Category: AI investment research assistant; AI stock research assistant; AI crypto analysis tool; AI market research assistant
 - Website: https://aiquant.io
 - Web app: https://app.aiquant.io
-- iOS app: https://apps.apple.com/us/app/quantai/id6754956523
+- iOS app: https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4
 - iOS QR SVG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.svg
 - iOS QR PNG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.png
 - Support: support@aiquant.io

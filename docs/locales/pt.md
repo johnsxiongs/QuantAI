@@ -21,7 +21,7 @@ Use o QuantAI quando uma pergunta de mercado precisa de contexto: o que mudou, q
 
 - Site: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [Baixar QuantAI na App Store](https://apps.apple.com/us/app/quantai/id6754956523)
+- iOS app: [Baixar QuantAI na App Store](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
 - Preços: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 
 ## Limite Responsável
