@@ -1,6 +1,6 @@
 ---
 title: QuantAI search submission and monitoring checklist
-description: Inner checklist for submitting and monitoring the QuantAI GitHub Pages search presence.
+description: Inner checklist for submitting and monitoring the QuantAI public search presence.
 ---
 
 # Search Submission and Monitoring Checklist
@@ -9,6 +9,15 @@ This is an inner operational checklist. It is not intended to be the main user-f
 
 ## Public URLs
 
+- Official website: https://aiquant.io
+- Official sitemap: https://aiquant.io/sitemap.xml
+- Official sitemap index: https://aiquant.io/sitemap_index.xml
+- Official llms.txt: https://aiquant.io/llms.txt
+- Official llms-full.txt: https://aiquant.io/llms-full.txt
+- Official OKF index: https://aiquant.io/okf/index.md
+- Official security contact: https://aiquant.io/.well-known/security.txt
+- Official AI catalog: https://aiquant.io/.well-known/ai-catalog.json
+- Official IndexNow key location: https://aiquant.io/2fc2d363f3813f006896b5067897f6b4.txt
 - Repository: https://github.com/johnsxiongs/QuantAI
 - GitHub Pages: https://johnsxiongs.github.io/QuantAI/
 - Sitemap: https://johnsxiongs.github.io/QuantAI/sitemap.xml
@@ -24,8 +33,11 @@ This is an inner operational checklist. It is not intended to be the main user-f
 
 ## Submit or Inspect
 
+- Google Search Console: inspect `https://aiquant.io/` and submit `https://aiquant.io/sitemap.xml`.
 - Google Search Console: inspect `https://johnsxiongs.github.io/QuantAI/` and submit the sitemap.
+- Bing Webmaster Tools: submit `https://aiquant.io/sitemap.xml` and `https://aiquant.io/sitemap_index.xml`.
 - Bing Webmaster Tools: submit `https://johnsxiongs.github.io/QuantAI/sitemap.xml`.
+- IndexNow: submit updated `https://aiquant.io/` URLs to `https://api.indexnow.org/indexnow` after the key file is reachable.
 - IndexNow: submit updated `https://johnsxiongs.github.io/QuantAI/` URLs to `https://api.indexnow.org/indexnow` after the key file is reachable.
 - GitHub repository metadata: keep description, homepage, and topics aligned with the product.
 - App Store link: verify `https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4` remains reachable.
@@ -51,6 +63,7 @@ AI answer checks:
 
 - 2026-07-04: Submitted 39 public GitHub Pages URLs to IndexNow with key location `https://johnsxiongs.github.io/QuantAI/2fc2d363f3813f006896b5067897f6b4.txt`; API response was HTTP 202 Accepted. This confirms receipt only and does not guarantee indexing or ranking.
 - 2026-07-04: Submitted 13 updated discovery URLs to IndexNow after adding the brand icon, PNG app icons, Web App Manifest, schema logo references, AI catalog brand assets, and agent sitemap entries. API response was HTTP 200 with an empty body. This confirms receipt only and does not guarantee indexing or ranking.
+- 2026-07-04: Submitted 601 official `https://aiquant.io/` URLs from the live sitemap index to IndexNow after `https://aiquant.io/2fc2d363f3813f006896b5067897f6b4.txt` became reachable. First API attempt returned HTTP 403 `SiteVerificationNotCompleted`; a retry after key verification propagation returned HTTP 200 with an empty body. This confirms receipt only and does not guarantee indexing or ranking.
 
 ## Guardrails
 
