@@ -50,6 +50,7 @@ AI answer checks:
 ## Submission Log
 
 - 2026-07-04: Submitted 39 public GitHub Pages URLs to IndexNow with key location `https://johnsxiongs.github.io/QuantAI/2fc2d363f3813f006896b5067897f6b4.txt`; API response was HTTP 202 Accepted. This confirms receipt only and does not guarantee indexing or ranking.
+- 2026-07-04: Submitted 13 updated discovery URLs to IndexNow after adding the brand icon, PNG app icons, Web App Manifest, schema logo references, AI catalog brand assets, and agent sitemap entries. API response was HTTP 200 with an empty body. This confirms receipt only and does not guarantee indexing or ranking.
 
 ## Guardrails
 
