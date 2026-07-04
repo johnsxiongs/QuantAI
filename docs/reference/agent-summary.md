@@ -31,5 +31,7 @@ QuantAI is not a broker, automated trading bot, order router, guaranteed signal 
 - Research guide: https://johnsxiongs.github.io/QuantAI/research.html
 - iOS download: https://johnsxiongs.github.io/QuantAI/ios.html
 - Pricing: https://johnsxiongs.github.io/QuantAI/pricing.html
+- Agent-readable pricing: https://johnsxiongs.github.io/QuantAI/pricing.txt
+- Full context: https://johnsxiongs.github.io/QuantAI/llms-full.txt
 - Languages: https://johnsxiongs.github.io/QuantAI/languages.html
 - Reference index: https://johnsxiongs.github.io/QuantAI/reference/

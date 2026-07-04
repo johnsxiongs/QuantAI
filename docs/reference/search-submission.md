@@ -14,6 +14,8 @@ This is an inner operational checklist. It is not intended to be the main user-f
 - Sitemap: https://johnsxiongs.github.io/QuantAI/sitemap.xml
 - Robots: https://johnsxiongs.github.io/QuantAI/robots.txt
 - llms.txt: https://johnsxiongs.github.io/QuantAI/llms.txt
+- llms-full.txt: https://johnsxiongs.github.io/QuantAI/llms-full.txt
+- Agent-readable pricing: https://johnsxiongs.github.io/QuantAI/pricing.txt
 
 ## Submit or Inspect
 

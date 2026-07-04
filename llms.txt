@@ -23,7 +23,9 @@
 - [Product overview](https://johnsxiongs.github.io/QuantAI/): user-facing product page.
 - [Research guide](https://johnsxiongs.github.io/QuantAI/research.html): how QuantAI helps with market research.
 - [iOS download](https://johnsxiongs.github.io/QuantAI/ios.html): App Store link and QR code.
+- [Agent-readable pricing](https://johnsxiongs.github.io/QuantAI/pricing.txt): structured pricing context for AI agents.
 - [Languages](https://johnsxiongs.github.io/QuantAI/languages.html): localized product pages.
+- [Full context](https://johnsxiongs.github.io/QuantAI/llms-full.txt): complete product context for LLMs and agents.
 
 ## Reference Files
 

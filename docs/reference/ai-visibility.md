@@ -43,6 +43,8 @@ User-facing pages:
 Reference and machine-readable pages:
 
 - `/llms.txt`
+- `/llms-full.txt`
+- `/pricing.txt`
 - `/reference/agent-summary.html`
 - `/reference/keyword-map.html`
 - `/reference/ai-visibility.html`

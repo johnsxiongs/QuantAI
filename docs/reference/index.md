@@ -16,6 +16,8 @@ Users should start with the [product overview](../), [research guide](../researc
 - [Agent-readable product summary](agent-summary.html)
 - [Search submission and monitoring checklist](search-submission.html)
 - [GitHub SEO and GEO pattern notes](github-seo-geo-patterns.html)
+- [Full LLM context](../llms-full.txt)
+- [Agent-readable pricing](../pricing.txt)
 - [SoftwareApplication JSON-LD](schema/software-application.jsonld)
 - [Organization JSON-LD](schema/organization.jsonld)
 - [FAQ JSON-LD](schema/faq.jsonld)

@@ -1,0 +1,55 @@
+# QuantAI Pricing
+
+Last updated: 2026-07-04
+
+Official pricing page: https://aiquant.io/pricing
+Web app: https://app.aiquant.io
+iOS app: https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4
+Support: support@aiquant.io
+
+## Basic
+
+Price: See the official pricing page.
+Billing: Entry-level access.
+Best for: Trying QuantAI and using it for lighter daily research.
+Includes:
+- Essential research workflows.
+- Standard AI access.
+- Basic usage quota.
+
+## Monthly Pro
+
+Price: See the official pricing page.
+Billing: Monthly subscription.
+Best for: Active investors, research-driven traders, and frequent market watchers.
+Includes:
+- Higher usage quota.
+- Advanced AI models.
+- Advanced reasoning.
+- Priority response speed.
+- Early access to new features.
+
+## Yearly Pro
+
+Price: See the official pricing page.
+Billing: Yearly subscription.
+Best for: Daily research workflows and ongoing watchlist review.
+Includes:
+- Pro feature set.
+- Annual billing option.
+- Higher capacity for regular market research.
+
+## Product Boundary
+
+QuantAI pricing is for access to research software. QuantAI does not sell brokerage services, trade execution, guaranteed trading signals, portfolio management, or personalized financial advice.
+
+## Primary Use Cases
+
+- AI investment research.
+- AI stock research.
+- AI crypto analysis.
+- AI market analysis.
+- Technical analysis research.
+- Fundamental analysis research.
+- Quantitative signal research.
+- Investment thesis review.
