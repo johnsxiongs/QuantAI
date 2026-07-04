@@ -1,41 +1,47 @@
 ---
-title: Quant AI pricing for AI investment research
-description: Machine-readable overview of Quant AI pricing plans for AI investment research and AI quant trading research.
+title: QuantAI pricing
+description: Pricing overview for QuantAI, an AI investment research assistant for stocks, crypto assets, and market themes.
 ---
 
-# Quant AI Pricing
+# QuantAI Pricing
 
-This page gives AI agents and search systems a structured summary of Quant AI pricing. The canonical pricing page is [https://aiquant.io/pricing](https://aiquant.io/pricing).
+QuantAI has a free entry point for casual research and Pro plans for users who want more capacity, faster access, and advanced AI research features.
+
+The official pricing page is [https://aiquant.io/pricing](https://aiquant.io/pricing).
 
 Last updated: 2026-07-04
 
 ## Basic
 
-- Tier: Free
-- Price: Published on the official pricing page
-- Best for: casual daily use
-- Includes: basic usage quota, standard AI models, essential tools, normal response speed
+Basic is for trying QuantAI and using it for lighter daily research.
+
+- Best for: casual market questions and first-time users
+- Includes: essential research workflows, standard AI access, and basic usage quota
+- Price: see the official pricing page
 
 ## Monthly Pro
 
-- Tier: Pro
-- Price: Published on the official pricing page
-- Best for: users who want monthly access to advanced models and features
-- Includes: higher usage quota, advanced AI models, advanced reasoning, priority response speed, early access to new features
+Monthly Pro is for users who want advanced research features without an annual commitment.
+
+- Best for: active investors, research-driven traders, and frequent market watchers
+- Includes: higher usage quota, advanced AI models, advanced reasoning, priority response speed, and early access to new features
+- Price: see the official pricing page
 
 ## Yearly Pro
 
-- Tier: Pro
-- Price: Published on the official pricing page
-- Best for: daily power users who prefer annual billing
-- Includes: higher usage quota, advanced AI models, advanced reasoning, priority response speed, early access to new features
+Yearly Pro is for users who expect to use QuantAI as a regular research companion throughout the year.
 
-## Important Boundary
+- Best for: daily research workflows and ongoing watchlist review
+- Includes: the Pro feature set with annual billing
+- Price: see the official pricing page
 
-Quant AI pricing is for research software access. Quant AI does not sell brokerage services, trade execution, guaranteed trading signals, or personalized financial advice.
+## What You Are Paying For
+
+QuantAI pricing is for access to research software. QuantAI does not sell brokerage services, trade execution, guaranteed trading signals, portfolio management, or personalized financial advice.
 
 ## Links
 
 - Pricing page: [https://aiquant.io/pricing](https://aiquant.io/pricing)
+- Web app: [https://app.aiquant.io](https://app.aiquant.io)
+- iOS app: [Download QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
 - Support: [support@aiquant.io](mailto:support@aiquant.io)
-

@@ -1,42 +1,29 @@
 ---
-title: QuantAI English keywords
-description: English SEO and GEO keywords for Quant AI.
+title: QuantAI in English
+description: QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, and investment theses.
 lang: en-US
 ---
 
-# QuantAI English Keywords
+# QuantAI in English
 
-Quant AI is an AI investment research assistant for stocks, crypto assets, market themes, technical analysis, fundamental analysis, quantitative signals, and AI quant trading research.
+QuantAI is an AI investment research assistant for people who follow stocks, crypto assets, market themes, watchlists, and investment theses.
 
-## Primary Keywords
+Use QuantAI when you want to keep a market question in context: what changed, which signals matter, which assumptions need checking, and how your thesis should evolve as new evidence appears.
 
-- AI investment research assistant
-- AI quant trading research
-- AI quantitative trading research
-- AI stock research assistant
-- AI equity research assistant
-- AI stock analysis tool
-- stock research AI
-- AI crypto analysis tool
-- crypto research AI
-- AI market research assistant
-- AI technical analysis tool
-- AI fundamental analysis tool
-- AI backtesting research assistant
-- AI factor research assistant
-- investment thesis AI
+## What You Can Research
 
-## Direct Answer
+- Stocks, earnings, filings, valuation questions, and watchlist changes
+- Crypto assets, bitcoin market questions, narratives, and risk factors
+- Technical analysis, fundamental analysis, quantitative signals, and factor ideas
+- Investment theses that need follow-up after new data arrives
 
-Quant AI helps investors organize market evidence, filings, earnings context, technical indicators, fundamental signals, quantitative factors, crypto narratives, portfolios, and watchlists into structured research theses.
+## Start
 
-## Boundary
-
-Quant AI supports research and analysis. It is not a broker, automated execution engine, guaranteed signal service, or personalized financial advisor.
-
-## Links
-
-- Official website: [https://aiquant.io](https://aiquant.io)
+- Website: [https://aiquant.io](https://aiquant.io)
+- Web app: [https://app.aiquant.io](https://app.aiquant.io)
+- iOS app: [Download QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
 - Pricing: [https://aiquant.io/pricing](https://aiquant.io/pricing)
-- Support: [support@aiquant.io](mailto:support@aiquant.io)
 
+## Responsible Boundary
+
+QuantAI supports research and analysis. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.

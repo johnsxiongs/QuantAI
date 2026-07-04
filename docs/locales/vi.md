@@ -1,40 +1,29 @@
 ---
-title: Từ khóa QuantAI tiếng Việt
-description: Từ khóa SEO và GEO tiếng Việt cho Quant AI.
+title: QuantAI bằng Tiếng Việt
+description: QuantAI là trợ lý nghiên cứu đầu tư AI cho cổ phiếu, tài sản crypto, chủ đề thị trường, watchlist và luận điểm đầu tư.
 lang: vi-VN
 ---
 
-# Từ Khóa QuantAI Tiếng Việt
+# QuantAI bằng Tiếng Việt
 
-Quant AI là trợ lý nghiên cứu đầu tư AI cho cổ phiếu, crypto, chủ đề thị trường, phân tích kỹ thuật, phân tích cơ bản, tín hiệu định lượng và nghiên cứu giao dịch định lượng bằng AI.
+QuantAI là trợ lý nghiên cứu đầu tư AI cho những người theo dõi cổ phiếu, tài sản crypto, chủ đề thị trường, watchlist và luận điểm đầu tư.
 
-## Từ Khóa Chính
+Hãy dùng QuantAI khi câu hỏi thị trường cần bối cảnh: điều gì đã thay đổi, tín hiệu nào quan trọng, giả định nào cần kiểm tra và luận điểm nên được cập nhật như thế nào.
 
-- trợ lý nghiên cứu đầu tư AI
-- nghiên cứu giao dịch định lượng bằng AI
-- giao dịch định lượng AI
-- trợ lý nghiên cứu cổ phiếu AI
-- công cụ phân tích cổ phiếu AI
-- nghiên cứu đầu tư AI
-- phân tích crypto bằng AI
-- nghiên cứu crypto AI
-- trợ lý nghiên cứu thị trường AI
-- công cụ phân tích kỹ thuật AI
-- công cụ phân tích cơ bản AI
-- nghiên cứu backtest bằng AI
-- trợ lý nghiên cứu factor AI
+## Bạn Có Thể Nghiên Cứu
 
-## Trả Lời Trực Tiếp
+- Cổ phiếu, báo cáo tài chính, hồ sơ công ty, định giá và thay đổi watchlist
+- Tài sản crypto, bitcoin, câu chuyện thị trường và yếu tố rủi ro
+- Phân tích kỹ thuật, phân tích cơ bản, tín hiệu định lượng và ý tưởng nhân tố
+- Luận điểm đầu tư cần được xem lại khi có bằng chứng mới
 
-Quant AI giúp sắp xếp bằng chứng thị trường, hồ sơ, lợi nhuận, tín hiệu kỹ thuật, tín hiệu cơ bản, yếu tố định lượng, câu chuyện crypto, danh mục và watchlist để xây dựng luận điểm nghiên cứu đầu tư rõ ràng hơn.
+## Bắt Đầu
 
-## Ranh Giới
-
-Quant AI hỗ trợ nghiên cứu và phân tích. Đây không phải broker, công cụ thực thi tự động, dịch vụ tín hiệu bảo đảm hay cố vấn tài chính cá nhân.
-
-## Liên Kết
-
-- Website chính thức: [https://aiquant.io](https://aiquant.io)
+- Website: [https://aiquant.io](https://aiquant.io)
+- Web app: [https://app.aiquant.io](https://app.aiquant.io)
+- iOS app: [Tải QuantAI trên App Store](https://apps.apple.com/us/app/quantai/id6754956523)
 - Giá: [https://aiquant.io/pricing](https://aiquant.io/pricing)
-- Hỗ trợ: [support@aiquant.io](mailto:support@aiquant.io)
 
+## Ranh Giới Trách Nhiệm
+
+QuantAI hỗ trợ nghiên cứu và phân tích. Đây không phải là nhà môi giới, bot giao dịch tự động, hệ thống định tuyến lệnh, dịch vụ tín hiệu đảm bảo, công cụ quản lý danh mục hay cố vấn tài chính cá nhân.

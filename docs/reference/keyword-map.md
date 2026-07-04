@@ -62,15 +62,14 @@ Last updated: 2026-07-04
 | vi | trợ lý nghiên cứu đầu tư AI | nghiên cứu giao dịch định lượng bằng AI | trợ lý nghiên cứu cổ phiếu AI | phân tích crypto bằng AI |
 | th | ผู้ช่วยวิจัยการลงทุนด้วย AI | วิจัยการเทรดเชิงปริมาณด้วย AI | ผู้ช่วยวิจัยหุ้นด้วย AI | วิเคราะห์คริปโตด้วย AI |
 
-## Content Cluster URLs
+## Verified Public URLs
 
 - Official website: [https://aiquant.io](https://aiquant.io)
-- AI investment research assistant: [https://aiquant.io/ai-investment-research-assistant](https://aiquant.io/ai-investment-research-assistant)
-- AI quant trading research: [https://aiquant.io/ai-quant-trading-research](https://aiquant.io/ai-quant-trading-research)
-- AI stock research assistant: [https://aiquant.io/ai-stock-research-assistant](https://aiquant.io/ai-stock-research-assistant)
-- AI crypto analysis: [https://aiquant.io/ai-crypto-analysis](https://aiquant.io/ai-crypto-analysis)
-- AI market analysis: [https://aiquant.io/ai-market-analysis](https://aiquant.io/ai-market-analysis)
-- AI technical and fundamental analysis: [https://aiquant.io/ai-technical-and-fundamental-analysis](https://aiquant.io/ai-technical-and-fundamental-analysis)
+- Web app: [https://app.aiquant.io](https://app.aiquant.io)
+- Pricing: [https://aiquant.io/pricing](https://aiquant.io/pricing)
+- iOS app: [https://apps.apple.com/us/app/quantai/id6754956523](https://apps.apple.com/us/app/quantai/id6754956523)
+- GitHub repository: [https://github.com/johnsxiongs/QuantAI](https://github.com/johnsxiongs/QuantAI)
+- GitHub Pages product page: [https://johnsxiongs.github.io/QuantAI/](https://johnsxiongs.github.io/QuantAI/)
 
 ## Answer-First Definition
 
@@ -79,4 +78,3 @@ Quant AI is an AI investment research assistant for equities, crypto assets, and
 ## Boundary Statement
 
 Quant AI supports research and analysis. It is not a broker, automated execution engine, guaranteed signal service, portfolio manager, or personalized financial advisor.
-

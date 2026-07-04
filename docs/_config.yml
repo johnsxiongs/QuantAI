@@ -1,5 +1,5 @@
 title: QuantAI
-description: Public knowledge hub for Quant AI, an AI investment research assistant and AI quant trading research assistant.
+description: QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, and investment theses.
 url: https://johnsxiongs.github.io
 baseurl: /QuantAI
 lang: en
@@ -9,5 +9,4 @@ plugins:
 include:
   - llms.txt
   - robots.txt
-  - schema
-
+  - reference

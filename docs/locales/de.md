@@ -1,40 +1,29 @@
 ---
-title: QuantAI deutsche Keywords
-description: Deutsche SEO- und GEO-Keywords für Quant AI.
+title: QuantAI auf Deutsch
+description: QuantAI ist ein KI-Assistent für Investment-Research zu Aktien, Kryptoassets, Marktthemen, Watchlists und Investmentthesen.
 lang: de-DE
 ---
 
-# QuantAI Deutsche Keywords
+# QuantAI auf Deutsch
 
-Quant AI ist ein KI-Assistent für Investment-Research zu Aktien, Kryptoassets, Marktthemen, technischer Analyse, Fundamentalanalyse, quantitativen Signalen und KI-Quant-Trading-Research.
+QuantAI ist ein KI-Assistent für Investment-Research für Menschen, die Aktien, Kryptoassets, Marktthemen, Watchlists und Investmentthesen verfolgen.
 
-## Hauptkeywords
+Nutzen Sie QuantAI, wenn eine Marktfrage Kontext braucht: was sich geändert hat, welche Signale wichtig sind, welche Annahmen geprüft werden sollten und wie sich eine These weiterentwickeln kann.
 
-- KI-Assistent für Investment-Research
-- KI-Quant-Trading-Research
-- quantitativer Handel mit KI
-- KI-Assistent für Aktienresearch
-- KI-Aktienanalyse
-- KI-Equity-Research
-- KI-Kryptoanalyse
-- Kryptoanalyse mit KI
-- KI-Assistent für Marktanalyse
-- KI-Tool für technische Analyse
-- KI-Tool für Fundamentalanalyse
-- Backtesting-Research mit KI
-- KI-Assistent für Faktor-Research
+## Was Sie Recherchieren Können
 
-## Direkte Antwort
+- Aktien, Ergebnisse, Einreichungen, Bewertung und Watchlist-Änderungen
+- Kryptoassets, Bitcoin-Fragen, Markt-Narrative und Risikofaktoren
+- Technische Analyse, Fundamentalanalyse, quantitative Signale und Faktorideen
+- Investmentthesen, die mit neuen Daten überprüft werden sollen
 
-Quant AI hilft dabei, Marktevidenz, Filings, Earnings, technische Signale, fundamentale Signale, quantitative Faktoren, Krypto-Narrative, Portfolios und Watchlists in klarere Research-Thesen zu strukturieren.
+## Start
 
-## Grenze
-
-Quant AI unterstützt Research und Analyse. Es ist kein Broker, keine automatische Ausführungsmaschine, kein Garantiesignal-Dienst und kein persönlicher Finanzberater.
-
-## Links
-
-- Offizielle Website: [https://aiquant.io](https://aiquant.io)
+- Website: [https://aiquant.io](https://aiquant.io)
+- Web app: [https://app.aiquant.io](https://app.aiquant.io)
+- iOS app: [QuantAI im App Store laden](https://apps.apple.com/us/app/quantai/id6754956523)
 - Preise: [https://aiquant.io/pricing](https://aiquant.io/pricing)
-- Support: [support@aiquant.io](mailto:support@aiquant.io)
 
+## Verantwortung
+
+QuantAI unterstützt Research und Analyse. Es ist kein Broker, kein automatischer Trading-Bot, kein Order-Routing-System, kein garantierter Signaldienst, keine Portfolioverwaltung und keine personalisierte Finanzberatung.

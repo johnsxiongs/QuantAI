@@ -1,42 +1,29 @@
 ---
-title: QuantAI 简体中文关键词
-description: Quant AI 的简体中文 SEO 和 GEO 关键词。
+title: QuantAI 简体中文介绍
+description: QuantAI 是面向股票、加密资产、市场主题、自选列表和投资假设的 AI 投资研究助手。
 lang: zh-CN
 ---
 
-# QuantAI 简体中文关键词
+# QuantAI 简体中文介绍
 
-Quant AI 是 AI 投资研究助手，面向美股研究、加密货币分析、市场分析、技术分析、基本面分析、量化信号和 AI 量化交易研究。
+QuantAI 是 AI 投资研究助手，适合关注股票、加密资产、市场主题、自选列表和投资假设的用户。
 
-## 核心关键词
+当一个市场问题涉及财报、公告、价格走势、技术指标、基本面、量化信号和后续追问时，QuantAI 可以帮助你把研究线索整理得更清楚。
 
-- AI 投资研究助手
-- AI 量化交易研究助手
-- AI 量化交易研究
-- AI 股票研究助手
-- AI 美股研究
-- AI 股票分析工具
-- 美股 AI 研究
-- AI 加密货币分析工具
-- 加密货币 AI 分析
-- AI 市场分析工具
-- AI 技术分析工具
-- AI 基本面分析工具
-- AI 回测研究助手
-- AI 因子研究助手
-- 投资 thesis AI
+## 你可以研究什么
 
-## 直接回答
+- 股票、财报、公告、估值问题和自选股变化
+- 加密资产、比特币市场问题、市场叙事和风险因素
+- 技术分析、基本面分析、量化信号和因子思路
+- 需要持续复盘的投资假设和市场观点
 
-Quant AI 帮助投资者整理市场证据、公告、财报、技术指标、基本面信号、量化因子、加密市场叙事、投资组合和自选股信息，并形成结构化的投资研究假设。
-
-## 边界
-
-Quant AI 支持研究和分析，不是券商、自动交易执行引擎、保证收益信号服务或个性化金融顾问。
-
-## 链接
+## 开始使用
 
 - 官网：[https://aiquant.io](https://aiquant.io)
+- Web App：[https://app.aiquant.io](https://app.aiquant.io)
+- iOS App：[在 App Store 下载 QuantAI](https://apps.apple.com/us/app/quantai/id6754956523)
 - 价格：[https://aiquant.io/pricing](https://aiquant.io/pricing)
-- 支持：[support@aiquant.io](mailto:support@aiquant.io)
 
+## 责任边界
+
+QuantAI 支持研究和分析。它不是券商、自动交易机器人、订单路由系统、保证信号服务、投资组合管理工具或个性化金融顾问。

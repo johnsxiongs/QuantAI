@@ -1,40 +1,29 @@
 ---
-title: Palabras clave de QuantAI en español
-description: Palabras clave SEO y GEO en español para Quant AI.
+title: QuantAI en Español
+description: QuantAI es un asistente de investigación de inversiones con IA para acciones, criptoactivos, temas de mercado y tesis de inversión.
 lang: es-ES
 ---
 
-# Palabras Clave de QuantAI en Español
+# QuantAI en Español
 
-Quant AI es un asistente de investigación de inversiones con IA para acciones, criptoactivos, temas de mercado, análisis técnico, análisis fundamental, señales cuantitativas e investigación de trading cuantitativo con IA.
+QuantAI es un asistente de investigación de inversiones con IA para personas que siguen acciones, criptoactivos, temas de mercado, listas de seguimiento y tesis de inversión.
 
-## Palabras Clave Principales
+Úsalo cuando una pregunta de mercado necesita contexto: qué cambió, qué señales importan, qué supuestos conviene revisar y cómo debería evolucionar tu tesis.
 
-- asistente de investigación de inversiones con IA
-- investigación de trading cuantitativo con IA
-- trading cuantitativo con IA
-- asistente de investigación de acciones con IA
-- herramienta de análisis bursátil con IA
-- investigación de renta variable con IA
-- análisis de criptomonedas con IA
-- análisis cripto con IA
-- asistente de investigación de mercado con IA
-- herramienta de análisis técnico con IA
-- herramienta de análisis fundamental con IA
-- investigación de backtesting con IA
-- asistente de investigación de factores con IA
+## Qué Puedes Investigar
 
-## Respuesta Directa
+- Acciones, resultados, filings, valoración y cambios en watchlists
+- Criptoactivos, bitcoin, narrativas de mercado y factores de riesgo
+- Análisis técnico, análisis fundamental, señales cuantitativas e ideas de factores
+- Tesis de inversión que necesitan seguimiento con nueva evidencia
 
-Quant AI ayuda a organizar evidencia de mercado, resultados, filings, señales técnicas, señales fundamentales, factores cuantitativos, narrativas cripto, carteras y watchlists para construir tesis de investigación más claras.
+## Empezar
 
-## Límite
-
-Quant AI apoya investigación y análisis. No es broker, motor de ejecución automática, servicio de señales garantizadas ni asesor financiero personalizado.
-
-## Enlaces
-
-- Sitio oficial: [https://aiquant.io](https://aiquant.io)
+- Sitio web: [https://aiquant.io](https://aiquant.io)
+- Web app: [https://app.aiquant.io](https://app.aiquant.io)
+- iOS app: [Descargar QuantAI en App Store](https://apps.apple.com/us/app/quantai/id6754956523)
 - Precios: [https://aiquant.io/pricing](https://aiquant.io/pricing)
-- Soporte: [support@aiquant.io](mailto:support@aiquant.io)
 
+## Límite Responsable
+
+QuantAI ayuda con investigación y análisis. No es broker, bot de trading automático, sistema de ejecución de órdenes, servicio de señales garantizadas, gestor de cartera ni asesor financiero personalizado.

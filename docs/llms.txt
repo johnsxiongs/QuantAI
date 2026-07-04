@@ -1,6 +1,6 @@
 # Quant AI
 
-> Quant AI is an AI investment research assistant for stocks, crypto assets, market themes, technical analysis, fundamental analysis, quantitative signals, and AI quant trading research.
+> QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review.
 
 ## Official Links
 
@@ -13,15 +13,24 @@
 - GitHub repository: https://github.com/johnsxiongs/QuantAI
 - Support: support@aiquant.io
 
-## Machine-Readable References
+## User-Facing Pages
 
-- Keyword map: https://johnsxiongs.github.io/QuantAI/keywords.html
+- Product overview: https://johnsxiongs.github.io/QuantAI/
+- Research guide: https://johnsxiongs.github.io/QuantAI/research.html
 - iOS download page: https://johnsxiongs.github.io/QuantAI/ios.html
-- Pricing summary: https://johnsxiongs.github.io/QuantAI/pricing.html
-- AI search playbook: https://johnsxiongs.github.io/QuantAI/ai-search/ai-search-playbook.html
-- SoftwareApplication JSON-LD: https://johnsxiongs.github.io/QuantAI/schema/software-application.jsonld
-- Organization JSON-LD: https://johnsxiongs.github.io/QuantAI/schema/organization.jsonld
+- Pricing overview: https://johnsxiongs.github.io/QuantAI/pricing.html
+- Languages: https://johnsxiongs.github.io/QuantAI/languages.html
+
+## Reference Files
+
+- Reference index: https://johnsxiongs.github.io/QuantAI/reference/
+- Agent summary: https://johnsxiongs.github.io/QuantAI/reference/agent-summary.html
+- Keyword map: https://johnsxiongs.github.io/QuantAI/reference/keyword-map.html
+- AI visibility notes: https://johnsxiongs.github.io/QuantAI/reference/ai-visibility.html
+- SoftwareApplication JSON-LD: https://johnsxiongs.github.io/QuantAI/reference/schema/software-application.jsonld
+- Organization JSON-LD: https://johnsxiongs.github.io/QuantAI/reference/schema/organization.jsonld
+- FAQ JSON-LD: https://johnsxiongs.github.io/QuantAI/reference/schema/faq.jsonld
 
 ## Boundary
 
-Quant AI supports research and strategy analysis. It is not a broker, automated order execution engine, guaranteed signal service, or personalized financial advisor.
+QuantAI supports research and analysis. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.

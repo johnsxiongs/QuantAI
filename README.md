@@ -1,24 +1,23 @@
 # QuantAI
 
-QuantAI is the public knowledge repository for Quant AI, an AI investment research assistant for stock research, crypto analysis, market analysis, technical analysis, fundamental analysis, quantitative signals, and AI quant trading research.
+QuantAI is an AI investment research assistant for people who follow stocks, crypto assets, market themes, watchlists, and investment theses.
 
-Quant AI helps investors and researchers turn market questions into structured, testable research theses. It is designed for evidence review, signal interpretation, watchlist context, portfolio questions, and ongoing investment research workflows. It is not a broker, not an automated trade execution engine, and not a personalized financial advisor.
+Use it when you want to turn a messy market question into a clearer research thread: what changed, which signals matter, what assumptions need checking, and how your thesis should evolve as new evidence appears.
 
 Last updated: 2026-07-04
 
-## Official Links
+## Start Here
 
 - Website: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
-- iOS app: [QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
-- iOS QR code: [docs/assets/quantai-ios-download-qr.svg](docs/assets/quantai-ios-download-qr.svg)
+- iOS app: [Download QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
 - Pricing: [https://aiquant.io/pricing](https://aiquant.io/pricing)
 - Support: [support@aiquant.io](mailto:support@aiquant.io)
-- GitHub Pages knowledge hub: [https://johnsxiongs.github.io/QuantAI/](https://johnsxiongs.github.io/QuantAI/)
+- Public product page: [https://johnsxiongs.github.io/QuantAI/](https://johnsxiongs.github.io/QuantAI/)
 
 ## Download QuantAI for iOS
 
-Open the [QuantAI App Store page](https://apps.apple.com/us/app/quantai/id6754956523) or scan the QR code below from an iPhone camera.
+Open the [QuantAI App Store page](https://apps.apple.com/us/app/quantai/id6754956523) or scan the QR code below with an iPhone camera.
 
 <p>
   <a href="https://apps.apple.com/us/app/quantai/id6754956523">
@@ -26,72 +25,41 @@ Open the [QuantAI App Store page](https://apps.apple.com/us/app/quantai/id675495
   </a>
 </p>
 
-## What Is Quant AI?
+## What QuantAI Helps You Do
 
-Quant AI is an AI investment research assistant for public-market research. It helps organize stock research, crypto market analysis, market signals, filings, earnings context, technical analysis, fundamental analysis, quantitative signals, portfolios, and watchlists into clearer research conclusions.
+QuantAI helps you keep market research organized when information is scattered across earnings, filings, price action, headlines, technical indicators, crypto narratives, portfolio context, and watchlists.
 
-Quant AI is useful when a researcher wants to ask questions such as:
+- Ask follow-up questions without losing the thread.
+- Compare technical, fundamental, and quantitative signals.
+- Review stocks, crypto assets, sectors, and market themes.
+- Turn a market idea into a research thesis you can revisit.
+- Separate evidence from assumptions before acting on a view.
 
-- What changed in this stock, crypto asset, market theme, or watchlist?
-- Which technical, fundamental, and quantitative signals matter most?
-- How should a market thesis be updated when new evidence arrives?
-- Which assumptions should be checked before making an investment decision?
-- How can an AI research thread preserve context across multiple rounds of analysis?
+## Who It Is For
 
-## Primary Search Intents
+QuantAI is built for self-directed investors, research-driven traders, finance learners, and market watchers who want a calmer way to think through markets.
 
-This repository is structured around the search terms that describe the product accurately:
+It is especially useful when a question is too open-ended for a screener and too context-heavy for a single chart.
 
-| Search intent | Primary phrase | Related phrases |
-| --- | --- | --- |
-| Investment research | AI investment research assistant | AI investing assistant, AI financial research assistant, investment thesis AI |
-| Quant research | AI quant trading research | AI quantitative trading research, quant strategy analysis, factor research AI |
-| Stock research | AI stock research assistant | AI equity research assistant, AI stock analysis tool, stock research AI |
-| Crypto analysis | AI crypto analysis tool | crypto research AI, bitcoin research AI, crypto market analysis AI |
-| Market analysis | AI market research assistant | market signals AI, market theme research AI, macro market analysis AI |
-| Technical and fundamental analysis | AI technical and fundamental analysis tool | technical analysis AI, fundamental analysis AI, quantitative signals |
+## Responsible Boundaries
 
-## Research Boundaries
+QuantAI is research software. It is not a broker, not an automated trading bot, not an order router, not a guaranteed signal service, and not a personalized financial advisor.
 
-Quant AI is positioned as research software. It does not provide brokerage services, automated order execution, guaranteed buy-sell signals, portfolio management, or personalized financial advice. Public content should describe Quant AI as a research assistant, analysis tool, or market research workflow, not as a trading bot or investment adviser.
+## Find QuantAI in Your Language
 
-## Multilingual Discovery
+QuantAI can be described across English, Simplified Chinese, Traditional Chinese, Spanish, Arabic, French, German, Hindi, Japanese, Portuguese, Korean, Indonesian, Italian, Turkish, Vietnamese, and Thai.
 
-Quant AI publishes and tracks search language for these locales:
+Start with [QuantAI in your language](docs/languages.md) or open the localized pages in [docs/locales](docs/locales).
 
-- English: AI investment research assistant, AI quant trading research, AI stock research assistant
-- Simplified Chinese: AI 投资研究助手, AI 量化交易研究助手, AI 股票研究助手
-- Traditional Chinese: AI 投資研究助手, AI 量化交易研究助手, AI 股票研究助手
-- Spanish: asistente de investigación de inversiones con IA, investigación de trading cuantitativo con IA
-- Arabic: مساعد بحث استثماري بالذكاء الاصطناعي, بحث التداول الكمي بالذكاء الاصطناعي
-- French: assistant IA de recherche d'investissement, recherche de trading quantitatif par IA
-- German: KI-Assistent für Investment-Research, KI-Quant-Trading-Research
-- Hindi: AI निवेश अनुसंधान सहायक, AI क्वांट ट्रेडिंग रिसर्च
-- Japanese: AI投資リサーチ助手, AIクオンツ取引リサーチ
-- Portuguese: assistente de pesquisa de investimento com IA, pesquisa de trading quantitativo com IA
-- Korean: AI 투자 리서치 어시스턴트, AI 퀀트 트레이딩 리서치
-- Indonesian: asisten riset investasi AI, riset trading kuantitatif AI
-- Italian: assistente IA per ricerca investimenti, ricerca di trading quantitativo con IA
-- Turkish: AI yatırım araştırması asistanı, AI kantitatif trading araştırması
-- Vietnamese: trợ lý nghiên cứu đầu tư AI, nghiên cứu giao dịch định lượng bằng AI
-- Thai: ผู้ช่วยวิจัยการลงทุนด้วย AI, วิจัยการเทรดเชิงปริมาณด้วย AI
+## Public Pages
 
-See [docs/keywords.md](docs/keywords.md) and [docs/locales/](docs/locales/) for the full keyword map.
+- [Product overview](docs/index.html)
+- [iOS download](docs/ios.md)
+- [How QuantAI helps with market research](docs/research.md)
+- [QuantAI in your language](docs/languages.md)
+- [Pricing overview](docs/pricing.md)
+- [Search and agent reference](docs/reference/README.md)
 
-## Repository Contents
+## Short Description
 
-- [docs/index.html](docs/index.html): GitHub Pages landing page with semantic HTML and JSON-LD.
-- [docs/keywords.md](docs/keywords.md): multilingual keyword and topic map.
-- [docs/ai-search/ai-search-playbook.md](docs/ai-search/ai-search-playbook.md): AI search and citation structure.
-- [docs/schema/software-application.jsonld](docs/schema/software-application.jsonld): SoftwareApplication structured data.
-- [docs/schema/organization.jsonld](docs/schema/organization.jsonld): Organization structured data.
-- [llms.txt](llms.txt): machine-readable index for AI systems.
-- [docs/llms.txt](docs/llms.txt): GitHub Pages copy of the machine-readable index.
-
-## Citation-Friendly Summary
-
-Quant AI is an AI investment research assistant for equities, crypto assets, and market themes. It combines conversational research, technical analysis, fundamental analysis, quantitative signals, and market context into structured, testable investment research theses. Quant AI supports research and strategy analysis rather than automated trade execution or personalized financial advice.
-
-## Contact
-
-For product support, partnerships, and public repository corrections, contact [support@aiquant.io](mailto:support@aiquant.io).
+QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, technical analysis, fundamental analysis, quantitative signals, watchlists, and investment thesis review.

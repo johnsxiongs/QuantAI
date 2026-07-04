@@ -1,40 +1,29 @@
 ---
-title: Parole chiave QuantAI in italiano
-description: Parole chiave SEO e GEO in italiano per Quant AI.
+title: QuantAI in Italiano
+description: QuantAI è un assistente IA per ricerca investimenti su azioni, criptoasset, temi di mercato e tesi di investimento.
 lang: it-IT
 ---
 
-# Parole Chiave QuantAI in Italiano
+# QuantAI in Italiano
 
-Quant AI è un assistente IA per ricerca investimenti su azioni, cryptoasset, temi di mercato, analisi tecnica, analisi fondamentale, segnali quantitativi e ricerca di trading quantitativo con IA.
+QuantAI è un assistente IA per ricerca investimenti pensato per chi segue azioni, criptoasset, temi di mercato, watchlist e tesi di investimento.
 
-## Parole Chiave Principali
+Usa QuantAI quando una domanda di mercato richiede contesto: cosa è cambiato, quali segnali contano, quali ipotesi vanno controllate e come dovrebbe evolvere la tua tesi.
 
-- assistente IA per ricerca investimenti
-- ricerca di trading quantitativo con IA
-- trading quantitativo con IA
-- assistente IA per ricerca azionaria
-- analisi azionaria con IA
-- ricerca investimenti IA
-- analisi crypto IA
-- ricerca crypto IA
-- assistente IA per analisi di mercato
-- strumento IA per analisi tecnica
-- strumento IA per analisi fondamentale
-- ricerca backtesting con IA
-- assistente IA per ricerca fattoriale
+## Cosa Puoi Analizzare
 
-## Risposta Diretta
+- Azioni, risultati, documenti societari, valutazione e watchlist
+- Criptoasset, bitcoin, narrative di mercato e fattori di rischio
+- Analisi tecnica, analisi fondamentale, segnali quantitativi e idee fattoriali
+- Tesi di investimento da rivedere quando arrivano nuove prove
 
-Quant AI aiuta a organizzare prove di mercato, filing, utili, segnali tecnici, segnali fondamentali, fattori quantitativi, narrative crypto, portafogli e watchlist per costruire tesi di ricerca d'investimento più chiare.
+## Inizia
 
-## Limite
-
-Quant AI supporta ricerca e analisi. Non è broker, motore di esecuzione automatica, servizio di segnali garantiti o consulente finanziario personalizzato.
-
-## Link
-
-- Sito ufficiale: [https://aiquant.io](https://aiquant.io)
+- Sito web: [https://aiquant.io](https://aiquant.io)
+- Web app: [https://app.aiquant.io](https://app.aiquant.io)
+- iOS app: [Scarica QuantAI su App Store](https://apps.apple.com/us/app/quantai/id6754956523)
 - Prezzi: [https://aiquant.io/pricing](https://aiquant.io/pricing)
-- Supporto: [support@aiquant.io](mailto:support@aiquant.io)
 
+## Limite Responsabile
+
+QuantAI supporta ricerca e analisi. Non è un broker, un bot di trading automatico, un sistema di invio ordini, un servizio di segnali garantiti, un gestore di portafoglio o un consulente finanziario personalizzato.

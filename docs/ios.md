@@ -1,27 +1,31 @@
 ---
-title: Download QuantAI on iOS
-description: App Store download link and QR code for the QuantAI iOS app.
+title: Download QuantAI for iPhone
+description: Download the QuantAI iOS app from the App Store or scan the QR code with an iPhone camera.
 ---
 
-# Download QuantAI on iOS
+# Download QuantAI for iPhone
 
-QuantAI is available on the App Store for iPhone. Open the download link directly or scan the QR code with an iPhone camera.
+Bring your market research with you. QuantAI on iPhone helps you continue a stock, crypto, watchlist, or market thesis conversation whenever a new question comes up.
 
-## App Store Link
+## Get the App
 
 - [Download QuantAI on the App Store](https://apps.apple.com/us/app/quantai/id6754956523)
 
-## QR Code
+## Scan the QR Code
+
+Open your iPhone camera and point it at the QR code below.
 
 [![QR code for downloading the QuantAI iOS app from the App Store](assets/quantai-ios-download-qr.svg)](https://apps.apple.com/us/app/quantai/id6754956523)
 
 PNG version: [assets/quantai-ios-download-qr.png](assets/quantai-ios-download-qr.png)
 
-## Context
+## What You Can Research
 
-QuantAI is the iOS app for Quant AI, an AI investment research assistant for stock research, crypto analysis, market analysis, technical analysis, fundamental analysis, quantitative signals, and AI quant trading research.
+- Stocks, earnings, filings, watchlists, and market themes
+- Crypto assets, narratives, and changing market context
+- Technical signals, fundamental signals, and quantitative factors
+- Investment theses you want to revisit as new evidence arrives
 
-## Boundary
+## Responsible Use
 
-Quant AI supports research and strategy analysis. It is not a broker, automated order execution engine, guaranteed signal service, or personalized financial advisor.
-
+QuantAI helps with research and analysis. It is not a broker, automated trading system, guaranteed signal service, or personalized financial advisor.
