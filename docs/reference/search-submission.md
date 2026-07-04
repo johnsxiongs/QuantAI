@@ -41,6 +41,7 @@ This is an inner operational checklist. It is not intended to be the main user-f
 - IndexNow: submit updated `https://johnsxiongs.github.io/QuantAI/` URLs to `https://api.indexnow.org/indexnow` after the key file is reachable.
 - GitHub repository metadata: keep description, homepage, and topics aligned with the product.
 - App Store link: verify `https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4` remains reachable.
+- App Store Connect EU Digital Services Act trader contact: verify the public App Store product pages use `support@aiquant.io` for the display email. This is an App Store Connect account or app compliance field, not ordinary version metadata.
 
 ## Monthly Monitoring
 
@@ -70,4 +71,5 @@ AI answer checks:
 - Do not promise ranking, indexing speed, investment performance, or guaranteed signals.
 - Do not publish personal email addresses.
 - Use `support@aiquant.io` for public contact.
+- Keep App Store Connect trader, support, and compliance contact details on domain-owned addresses.
 - Keep top-level pages user-readable; keep technical SEO/GEO notes in `reference/`.
