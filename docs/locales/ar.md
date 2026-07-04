@@ -2,7 +2,7 @@
 title: QuantAI باللغة العربية
 description: QuantAI مساعد بحث استثماري بالذكاء الاصطناعي للأسهم والأصول المشفرة وموضوعات السوق وقوائم المتابعة وأطروحات الاستثمار.
 lang: ar
-dir: rtl
+text_direction: rtl
 ---
 
 # QuantAI باللغة العربية
