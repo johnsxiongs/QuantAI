@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://johnsxiongs.github.io/QuantAI/sitemap.xml
-
+Sitemap: https://johnsxiongs.github.io/QuantAI/sitemap-agents.xml

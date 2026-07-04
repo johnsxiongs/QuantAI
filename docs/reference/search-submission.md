@@ -12,6 +12,7 @@ This is an inner operational checklist. It is not intended to be the main user-f
 - Repository: https://github.com/johnsxiongs/QuantAI
 - GitHub Pages: https://johnsxiongs.github.io/QuantAI/
 - Sitemap: https://johnsxiongs.github.io/QuantAI/sitemap.xml
+- Agent sitemap: https://johnsxiongs.github.io/QuantAI/sitemap-agents.xml
 - Robots: https://johnsxiongs.github.io/QuantAI/robots.txt
 - llms.txt: https://johnsxiongs.github.io/QuantAI/llms.txt
 - llms-full.txt: https://johnsxiongs.github.io/QuantAI/llms-full.txt

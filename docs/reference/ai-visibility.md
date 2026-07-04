@@ -90,7 +90,7 @@ Avoid as primary claims:
 
 - Public pages must be crawlable and indexable.
 - The home page should keep user copy above technical copy.
-- `robots.txt` should point to the sitemap.
+- `robots.txt` should point to the public sitemap and agent sitemap.
 - Sitemap should include user-facing pages and reference pages.
 - JSON-LD should parse as valid JSON.
 - `llms.txt` should link to the main product, iOS, pricing, languages, and reference files.
