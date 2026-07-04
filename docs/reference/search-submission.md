@@ -20,11 +20,13 @@ This is an inner operational checklist. It is not intended to be the main user-f
 - Humans: https://johnsxiongs.github.io/QuantAI/humans.txt
 - Security: https://johnsxiongs.github.io/QuantAI/.well-known/security.txt
 - AI catalog: https://johnsxiongs.github.io/QuantAI/.well-known/ai-catalog.json
+- IndexNow key location: https://johnsxiongs.github.io/QuantAI/2fc2d363f3813f006896b5067897f6b4.txt
 
 ## Submit or Inspect
 
 - Google Search Console: inspect `https://johnsxiongs.github.io/QuantAI/` and submit the sitemap.
 - Bing Webmaster Tools: submit `https://johnsxiongs.github.io/QuantAI/sitemap.xml`.
+- IndexNow: submit updated `https://johnsxiongs.github.io/QuantAI/` URLs to `https://api.indexnow.org/indexnow` after the key file is reachable.
 - GitHub repository metadata: keep description, homepage, and topics aligned with the product.
 - App Store link: verify `https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4` remains reachable.
 

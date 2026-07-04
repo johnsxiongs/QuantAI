@@ -21,6 +21,7 @@
     "pricing_txt": "https://johnsxiongs.github.io/QuantAI/pricing.txt",
     "sitemap": "https://johnsxiongs.github.io/QuantAI/sitemap.xml",
     "agent_sitemap": "https://johnsxiongs.github.io/QuantAI/sitemap-agents.xml",
+    "indexnow_key_location": "https://johnsxiongs.github.io/QuantAI/2fc2d363f3813f006896b5067897f6b4.txt",
     "software_application_schema": "https://johnsxiongs.github.io/QuantAI/reference/schema/software-application.jsonld",
     "organization_schema": "https://johnsxiongs.github.io/QuantAI/reference/schema/organization.jsonld",
     "faq_schema": "https://johnsxiongs.github.io/QuantAI/reference/schema/faq.jsonld"

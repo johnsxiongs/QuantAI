@@ -48,6 +48,7 @@ Reference and machine-readable pages:
 - `/humans.txt`
 - `/.well-known/security.txt`
 - `/.well-known/ai-catalog.json`
+- `/2fc2d363f3813f006896b5067897f6b4.txt` IndexNow key file
 - `/reference/agent-summary.html`
 - `/reference/keyword-map.html`
 - `/reference/ai-visibility.html`
