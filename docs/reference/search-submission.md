@@ -47,6 +47,10 @@ AI answer checks:
 - What is an AI investment research assistant?
 - Is QuantAI a trading bot?
 
+## Submission Log
+
+- 2026-07-04: Submitted 39 public GitHub Pages URLs to IndexNow with key location `https://johnsxiongs.github.io/QuantAI/2fc2d363f3813f006896b5067897f6b4.txt`; API response was HTTP 202 Accepted. This confirms receipt only and does not guarantee indexing or ranking.
+
 ## Guardrails
 
 - Do not promise ranking, indexing speed, investment performance, or guaranteed signals.
