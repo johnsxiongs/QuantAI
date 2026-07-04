@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+    <meta name="theme-color" content="#0f766e">
+    <meta name="application-name" content="QuantAI">
+    <meta name="apple-mobile-web-app-title" content="QuantAI">
     {% seo %}
     {% if page.url contains '/locales/' %}
     <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
@@ -12,6 +15,10 @@
     <link rel="alternate" hreflang="{{ locale.hreflang }}" href="{{ site.url }}{{ site.baseurl }}{{ locale.href }}">
     {% endfor %}
     {% endif %}
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/quantai-icon.svg' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/quantai-icon-192.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/quantai-apple-touch-icon.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <style>
       .quantai-page-header {

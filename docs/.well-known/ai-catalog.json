@@ -8,6 +8,14 @@
   "ios_app": "https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4",
   "support": "support@aiquant.io",
   "repository": "https://github.com/johnsxiongs/QuantAI",
+  "brand_assets": {
+    "manifest": "https://johnsxiongs.github.io/QuantAI/site.webmanifest",
+    "icon_svg": "https://johnsxiongs.github.io/QuantAI/assets/quantai-icon.svg",
+    "icon_192": "https://johnsxiongs.github.io/QuantAI/assets/quantai-icon-192.png",
+    "icon_512": "https://johnsxiongs.github.io/QuantAI/assets/quantai-icon-512.png",
+    "apple_touch_icon": "https://johnsxiongs.github.io/QuantAI/assets/quantai-apple-touch-icon.png",
+    "open_graph_image": "https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png"
+  },
   "public_pages": {
     "product_overview": "https://johnsxiongs.github.io/QuantAI/",
     "research_guide": "https://johnsxiongs.github.io/QuantAI/research.html",

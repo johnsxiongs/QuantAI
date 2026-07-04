@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">QuantAI app icon</title>
+  <desc id="desc">QuantAI brand icon for the AI investment research assistant.</desc>
+  <defs>
+    <linearGradient id="bg" x1="128" y1="96" x2="896" y2="928" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="0.48" stop-color="#115e59"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="line" x1="240" y1="716" x2="780" y2="302" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#99f6e4"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="220" fill="url(#bg)"/>
+  <path d="M234 682L366 552L478 612L646 384L790 330" fill="none" stroke="url(#line)" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="234" cy="682" r="46" fill="#ccfbf1"/>
+  <circle cx="366" cy="552" r="46" fill="#ccfbf1"/>
+  <circle cx="478" cy="612" r="46" fill="#ccfbf1"/>
+  <circle cx="646" cy="384" r="46" fill="#ccfbf1"/>
+  <circle cx="790" cy="330" r="46" fill="#ccfbf1"/>
+  <path d="M263 764H761" stroke="#f8fafc" stroke-width="42" stroke-linecap="round" opacity="0.92"/>
+  <path d="M318 246H706" stroke="#f8fafc" stroke-width="42" stroke-linecap="round" opacity="0.92"/>
+  <text x="512" y="506" text-anchor="middle" font-family="Inter, Helvetica, Arial, sans-serif" font-size="164" font-weight="800" fill="#ffffff" letter-spacing="0">QAI</text>
+</svg>

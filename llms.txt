@@ -13,6 +13,9 @@
 - iOS QR SVG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.svg
 - iOS QR PNG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.png
 - Open Graph image: https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png
+- Brand icon SVG: https://johnsxiongs.github.io/QuantAI/assets/quantai-icon.svg
+- Brand icon PNG: https://johnsxiongs.github.io/QuantAI/assets/quantai-icon-512.png
+- Web app manifest: https://johnsxiongs.github.io/QuantAI/site.webmanifest
 - Humans: https://johnsxiongs.github.io/QuantAI/humans.txt
 - AI catalog: https://johnsxiongs.github.io/QuantAI/.well-known/ai-catalog.json
 - Support: support@aiquant.io

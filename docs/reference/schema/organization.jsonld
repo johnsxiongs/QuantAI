@@ -8,6 +8,8 @@
     "aiquant.io"
   ],
   "url": "https://aiquant.io",
+  "logo": "https://johnsxiongs.github.io/QuantAI/assets/quantai-icon-512.png",
+  "image": "https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png",
   "sameAs": [
     "https://github.com/johnsxiongs/QuantAI",
     "https://johnsxiongs.github.io/QuantAI/",
@@ -39,4 +41,3 @@
     ]
   }
 }
-

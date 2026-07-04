@@ -20,6 +20,8 @@ Users should start with the [product overview](../), [research guide](../researc
 - [Agent-readable pricing](../pricing.txt)
 - [Humans file](../humans.txt)
 - [AI catalog](../.well-known/ai-catalog.json)
+- [Web app manifest](../site.webmanifest)
+- [Brand icon SVG](../assets/quantai-icon.svg)
 - [SoftwareApplication JSON-LD](schema/software-application.jsonld)
 - [Organization JSON-LD](schema/organization.jsonld)
 - [FAQ JSON-LD](schema/faq.jsonld)

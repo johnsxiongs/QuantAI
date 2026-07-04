@@ -25,6 +25,24 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://johnsxiongs.github.io/QuantAI/site.webmanifest</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://johnsxiongs.github.io/QuantAI/assets/quantai-icon.svg</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://johnsxiongs.github.io/QuantAI/assets/quantai-icon-512.png</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://johnsxiongs.github.io/QuantAI/.well-known/security.txt</loc>
     <lastmod>2026-07-04</lastmod>
     <changefreq>monthly</changefreq>
