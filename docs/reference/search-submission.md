@@ -65,6 +65,7 @@ AI answer checks:
 - 2026-07-04: Submitted 39 public GitHub Pages URLs to IndexNow with key location `https://johnsxiongs.github.io/QuantAI/2fc2d363f3813f006896b5067897f6b4.txt`; API response was HTTP 202 Accepted. This confirms receipt only and does not guarantee indexing or ranking.
 - 2026-07-04: Submitted 13 updated discovery URLs to IndexNow after adding the brand icon, PNG app icons, Web App Manifest, schema logo references, AI catalog brand assets, and agent sitemap entries. API response was HTTP 200 with an empty body. This confirms receipt only and does not guarantee indexing or ranking.
 - 2026-07-04: Submitted 601 official `https://aiquant.io/` URLs from the live sitemap index to IndexNow after `https://aiquant.io/2fc2d363f3813f006896b5067897f6b4.txt` became reachable. First API attempt returned HTTP 403 `SiteVerificationNotCompleted`; a retry after key verification propagation returned HTTP 200 with an empty body. This confirms receipt only and does not guarantee indexing or ranking.
+- 2026-07-04: Resubmitted 40 current GitHub Pages URLs from `sitemap.xml` and `sitemap-agents.xml` after the App Store compliance-contact checklist update. IndexNow returned HTTP 200 with an empty body. This confirms receipt only and does not guarantee indexing or ranking.
 
 ## Guardrails
 
