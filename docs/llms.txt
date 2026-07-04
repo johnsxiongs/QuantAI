@@ -27,6 +27,7 @@
 - Agent summary: https://johnsxiongs.github.io/QuantAI/reference/agent-summary.html
 - Keyword map: https://johnsxiongs.github.io/QuantAI/reference/keyword-map.html
 - AI visibility notes: https://johnsxiongs.github.io/QuantAI/reference/ai-visibility.html
+- GitHub SEO and GEO pattern notes: https://johnsxiongs.github.io/QuantAI/reference/github-seo-geo-patterns.html
 - SoftwareApplication JSON-LD: https://johnsxiongs.github.io/QuantAI/reference/schema/software-application.jsonld
 - Organization JSON-LD: https://johnsxiongs.github.io/QuantAI/reference/schema/organization.jsonld
 - FAQ JSON-LD: https://johnsxiongs.github.io/QuantAI/reference/schema/faq.jsonld

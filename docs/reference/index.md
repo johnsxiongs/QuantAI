@@ -15,6 +15,7 @@ Users should start with the [product overview](../), [research guide](../researc
 - [AI visibility notes](ai-visibility.html)
 - [Agent-readable product summary](agent-summary.html)
 - [Search submission and monitoring checklist](search-submission.html)
+- [GitHub SEO and GEO pattern notes](github-seo-geo-patterns.html)
 - [SoftwareApplication JSON-LD](schema/software-application.jsonld)
 - [Organization JSON-LD](schema/organization.jsonld)
 - [FAQ JSON-LD](schema/faq.jsonld)

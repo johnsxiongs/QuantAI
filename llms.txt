@@ -32,6 +32,7 @@
 - [Keyword map](https://johnsxiongs.github.io/QuantAI/reference/keyword-map.html)
 - [AI visibility notes](https://johnsxiongs.github.io/QuantAI/reference/ai-visibility.html)
 - [Search submission checklist](https://johnsxiongs.github.io/QuantAI/reference/search-submission.html)
+- [GitHub SEO and GEO pattern notes](https://johnsxiongs.github.io/QuantAI/reference/github-seo-geo-patterns.html)
 
 ## Search Phrases
 

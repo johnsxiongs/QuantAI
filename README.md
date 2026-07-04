@@ -58,7 +58,6 @@ Start with [QuantAI in your language](docs/languages.md) or open the localized p
 - [How QuantAI helps with market research](docs/research.md)
 - [QuantAI in your language](docs/languages.md)
 - [Pricing overview](docs/pricing.md)
-- [Search and agent reference](docs/reference/README.md)
 
 ## Short Description
 
