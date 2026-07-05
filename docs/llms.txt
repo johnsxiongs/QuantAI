@@ -1,12 +1,12 @@
 # Quant AI
 
-> QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review.
+> Quant AI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review across aiquant.io, the web app, and the iPhone app.
 
 ## Official Links
 
 - Website: https://aiquant.io
 - Web app: https://app.aiquant.io
-- iOS app: https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4
+- iOS app: https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523
 - iOS QR SVG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.svg
 - iOS QR PNG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.png
 - Open Graph image: https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png
@@ -42,4 +42,4 @@
 
 ## Boundary
 
-QuantAI supports research and analysis. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.
+Quant AI supports research and analysis. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.

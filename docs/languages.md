@@ -1,11 +1,11 @@
 ---
-title: QuantAI in your language
-description: Find QuantAI product pages and search phrases in English, Chinese, Spanish, Arabic, French, German, Hindi, Japanese, Portuguese, Korean, Indonesian, Italian, Turkish, Vietnamese, and Thai.
+title: Quant AI in your language
+description: Find Quant AI product pages and search phrases in English, Chinese, Spanish, Arabic, French, German, Hindi, Japanese, Portuguese, Korean, Indonesian, Italian, Turkish, Vietnamese, and Thai.
 ---
 
-# QuantAI in Your Language
+# Quant AI in Your Language
 
-QuantAI helps people research stocks, crypto assets, market themes, watchlists, technical signals, fundamentals, and investment theses with AI.
+Quant AI helps people research stocks, crypto assets, market themes, watchlists, technical signals, fundamentals, and investment theses with AI.
 
 You can start in English or open a localized page below.
 
@@ -28,7 +28,7 @@ You can start in English or open a localized page below.
 - [Tiếng Việt](locales/vi.html)
 - [ไทย](locales/th.html)
 
-## Common Ways People Describe QuantAI
+## Common Ways People Describe Quant AI
 
 - AI investment research assistant
 - AI stock research assistant
@@ -37,7 +37,11 @@ You can start in English or open a localized page below.
 - AI technical analysis tool
 - AI fundamental analysis tool
 - AI quant trading research assistant
+- Quant AI website
+- Quant AI pricing
+- Quant AI iPhone app
+- Quant AI - Smart Agent
 
 ## Responsible Boundary
 
-QuantAI is research software. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.
+Quant AI is research software. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.

@@ -1,9 +1,9 @@
 ---
-title: QuantAI multilingual SEO and GEO keyword map
+title: Quant AI multilingual SEO and GEO keyword map
 description: Multilingual keyword map for Quant AI, an AI investment research assistant and AI quant trading research assistant.
 ---
 
-# QuantAI Multilingual SEO and GEO Keyword Map
+# Quant AI Multilingual SEO and GEO Keyword Map
 
 This page maps the public search vocabulary for Quant AI. The terms describe research, evidence review, and strategy analysis. They do not describe brokerage, automated order execution, guaranteed signals, or personalized financial advice.
 
@@ -37,9 +37,11 @@ Last updated: 2026-07-04
 - aiquant.io
 - Quant AI app
 - Quant AI iOS
-- QuantAI stock research
-- QuantAI market analysis
-- QuantAI pricing
+- Quant AI iPhone app
+- Quant AI - Smart Agent
+- Quant AI stock research
+- Quant AI market analysis
+- Quant AI pricing
 
 ## Multilingual Keyword Matrix
 
@@ -67,7 +69,7 @@ Last updated: 2026-07-04
 - Official website: [https://aiquant.io](https://aiquant.io)
 - Web app: [https://app.aiquant.io](https://app.aiquant.io)
 - Pricing: [https://aiquant.io/pricing](https://aiquant.io/pricing)
-- iOS app: [https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4](https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4)
+- iOS app: [https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523](https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523)
 - GitHub repository: [https://github.com/johnsxiongs/QuantAI](https://github.com/johnsxiongs/QuantAI)
 - GitHub Pages product page: [https://johnsxiongs.github.io/QuantAI/](https://johnsxiongs.github.io/QuantAI/)
 

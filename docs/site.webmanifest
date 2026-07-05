@@ -1,8 +1,8 @@
 {
   "id": "https://johnsxiongs.github.io/QuantAI/",
-  "name": "QuantAI - AI Investment Research Assistant",
-  "short_name": "QuantAI",
-  "description": "QuantAI helps investors research stocks, crypto assets, market themes, watchlists, technical signals, fundamentals, and investment theses with AI.",
+  "name": "Quant AI - AI Investment Research Assistant",
+  "short_name": "Quant AI",
+  "description": "Quant AI helps investors research stocks, crypto assets, market themes, watchlists, technical signals, fundamentals, and investment theses with AI across the web and iPhone.",
   "lang": "en",
   "dir": "ltr",
   "start_url": "/QuantAI/",

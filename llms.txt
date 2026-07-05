@@ -1,15 +1,15 @@
 # Quant AI
 
-> QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review.
+> Quant AI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review across aiquant.io, the web app, and the iPhone app.
 
 ## Entity
 
 - Brand: Quant AI
-- Also known as: QuantAI, aiquant, aiquant.io, Quant AI app, Quant AI iOS
+- Also known as: QuantAI, aiquant, aiquant.io, Quant AI app, Quant AI iOS, Quant AI - Smart Agent
 - Category: AI investment research assistant; AI stock research assistant; AI crypto analysis tool; AI market research assistant
 - Website: https://aiquant.io
 - Web app: https://app.aiquant.io
-- iOS app: https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4
+- iOS app: https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523
 - iOS QR SVG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.svg
 - iOS QR PNG: https://johnsxiongs.github.io/QuantAI/assets/quantai-ios-download-qr.png
 - Open Graph image: https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png
@@ -23,9 +23,9 @@
 
 ## User-Facing Pages
 
-- [Official website](https://aiquant.io): QuantAI website.
-- [Web app](https://app.aiquant.io): QuantAI web application.
-- [Pricing](https://aiquant.io/pricing): QuantAI pricing.
+- [Official website](https://aiquant.io): Quant AI website.
+- [Web app](https://app.aiquant.io): Quant AI web application.
+- [Pricing](https://aiquant.io/pricing): Quant AI pricing.
 - [Product overview](https://johnsxiongs.github.io/QuantAI/): user-facing product page.
 - [Research guide](https://johnsxiongs.github.io/QuantAI/research.html): how QuantAI helps with market research.
 - [iOS download](https://johnsxiongs.github.io/QuantAI/ios.html): App Store link and QR code.

@@ -5,7 +5,9 @@
   "alternateName": [
     "QuantAI",
     "aiquant",
-    "aiquant.io"
+    "aiquant.io",
+    "Quant AI app",
+    "Quant AI - Smart Agent"
   ],
   "url": "https://aiquant.io",
   "logo": "https://johnsxiongs.github.io/QuantAI/assets/quantai-icon-512.png",
@@ -15,7 +17,7 @@
     "https://johnsxiongs.github.io/QuantAI/",
     "https://x.com/aiquantio",
     "https://t.me/aiquant_io",
-    "https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4"
+    "https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523"
   ],
   "contactPoint": {
     "@type": "ContactPoint",

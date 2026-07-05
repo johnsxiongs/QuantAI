@@ -4,26 +4,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is QuantAI?",
+      "name": "What is Quant AI?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review."
+        "text": "Quant AI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review."
       }
     },
     {
       "@type": "Question",
-      "name": "Where can I use QuantAI?",
+      "name": "Where can I use Quant AI?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "QuantAI is available on the web at https://aiquant.io and as an iPhone app on the App Store."
+        "text": "Quant AI is available on the web at https://aiquant.io and as the Quant AI - Smart Agent iPhone app on the App Store."
       }
     },
     {
       "@type": "Question",
-      "name": "Is QuantAI a trading bot?",
+      "name": "Is Quant AI a trading bot?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. QuantAI supports research and analysis. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor."
+        "text": "No. Quant AI supports research and analysis. It is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor."
       }
     }
   ]

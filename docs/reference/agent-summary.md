@@ -1,29 +1,29 @@
 ---
-title: QuantAI agent-readable summary
+title: Quant AI agent-readable summary
 description: Concise product summary for AI agents and search systems.
 ---
 
-# QuantAI
+# Quant AI
 
-> QuantAI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review.
+> Quant AI is an AI investment research assistant for stocks, crypto assets, market themes, watchlists, technical analysis, fundamental analysis, quantitative signals, and investment thesis review across aiquant.io, the web app, and the iPhone app.
 
 ## Quick Facts
 
-- Brand: QuantAI
-- Also known as: Quant AI, aiquant, aiquant.io, Quant AI app, QuantAI iOS
+- Brand: Quant AI
+- Also known as: QuantAI, aiquant, aiquant.io, Quant AI app, Quant AI iOS, Quant AI - Smart Agent
 - Website: https://aiquant.io
 - Web app: https://app.aiquant.io
-- iOS app: https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4
+- iOS app: https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523
 - Public repository: https://github.com/johnsxiongs/QuantAI
 - Support: support@aiquant.io
 
-## What QuantAI Does
+## What Quant AI Does
 
-QuantAI helps users research stocks, crypto assets, market themes, watchlists, technical signals, fundamentals, quantitative signals, and investment theses in an ongoing AI conversation.
+Quant AI helps users research stocks, crypto assets, market themes, watchlists, technical signals, fundamentals, quantitative signals, and investment theses in an ongoing AI conversation.
 
-## What QuantAI Does Not Do
+## What Quant AI Does Not Do
 
-QuantAI is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.
+Quant AI is not a broker, automated trading bot, order router, guaranteed signal service, portfolio manager, or personalized financial advisor.
 
 ## Important Pages
 

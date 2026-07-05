@@ -7,12 +7,13 @@
     "aiquant",
     "aiquant.io",
     "Quant AI app",
-    "Quant AI iOS"
+    "Quant AI iOS",
+    "Quant AI - Smart Agent"
   ],
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Web, iOS",
   "url": "https://aiquant.io",
-  "downloadUrl": "https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4",
+  "downloadUrl": "https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523",
   "image": [
     "https://johnsxiongs.github.io/QuantAI/assets/quantai-og-image.png",
     "https://johnsxiongs.github.io/QuantAI/assets/quantai-icon-512.png"
@@ -33,7 +34,7 @@
     "https://app.aiquant.io",
     "https://github.com/johnsxiongs/QuantAI",
     "https://johnsxiongs.github.io/QuantAI/",
-    "https://apps.apple.com/us/app/quant-ai-stock-research/id6754956523?uo=4",
+    "https://apps.apple.com/us/app/quant-ai-smart-agent/id6754956523",
     "https://x.com/aiquantio",
     "https://t.me/aiquant_io"
   ],
